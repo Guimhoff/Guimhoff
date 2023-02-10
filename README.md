@@ -24,7 +24,7 @@
 
 ***
 
-### Main recent GitHub projects:
+### Main recent public GitHub projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Guimhoff&repo=JohnnyDeepL)](https://github.com/Guimhoff/JohnnyDeepL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Guimhoff&repo=BoulderDash)](https://github.com/Guimhoff/BoulderDash)
